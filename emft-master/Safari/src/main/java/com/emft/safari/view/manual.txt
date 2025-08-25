@@ -1,0 +1,29 @@
+<html>
+<body style='color:white; background-color:rgba(0,0,0,0.7); font-family:Arial; font-size:18pt; margin: 0;'>
+    <div style="padding: 0 20px;">
+        Egy afrikai szafari park igazgatójaként célod a park sikeres működtetése: állatok, turisták, infrastruktúra és pénzügyek összehangolt kezelése.
+        A játék három sebességfokozattal játszható: óra / nap / hét. Ezek között bármikor szabadon válthatsz.
+        A játék indulásakor három nehézségi szint választható: 3, 6 vagy 12 hónapos kihívás.
+
+        <b style='font-size: 20pt;'>Mit vásárolhatsz?</b>
+        🌿 Növények
+        🐘 Állatok (növényevők és ragadozók)
+        🚙 Dzsippek (4 személyes)
+        🛣️ Utak (összekötik a be- és kijáratot, dzsiphez szükséges)
+        🔭 Megfigyelő eszközök
+        👷 Parkdolgozók
+
+        <b style='font-size: 20pt;'>Játékmechanika</b>
+        A turisták dzsipet bérelnek, és az állatok látványa határozza meg az élményüket.
+        Az állatok csoportokban mozognak, táplálékot és vizet keresnek.
+        A jóllakott állatok pihennek, majd véletlenszerű úticélokat választanak.
+        A növényevők növényeket esznek, a ragadozók növényevőket.
+        Az állatok öregszenek, szaporodnak, és el is pusztulhatnak.
+        A bevétel turistákból és állateladásból származik.
+
+        <b style='font-size: 20pt;'>Vége</b>
+        <b>Győzelem:</b> Nehézségi szinttől függően az adott időintervallumban a látogatók, a növényevő, a ragadozó állatok száma, és a tőkénk is egy küszöbérték felett marad.
+        <b>Vereség:</b> Ha csődbe megy a park vagy az összes állat elpusztul.
+    </div>
+</body>
+</html>
